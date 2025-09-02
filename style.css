@@ -1,0 +1,43 @@
+.frame {
+  background-color: #ffffff;
+  display: grid;
+  justify-items: center;
+  align-items: start;
+  width: 100vw;
+}
+
+.frame .div {
+  background-color: #ffffff;
+  width: 420px;
+  height: 594px;
+  position: relative;
+}
+
+.frame .union {
+  position: absolute;
+  width: 34px;
+  height: 27px;
+  top: 12px;
+  left: 15px;
+}
+
+.frame .hello-world {
+  position: absolute;
+  top: 385px;
+  left: 97px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 246px;
+  height: 275px;
+  top: 65px;
+  left: 94px;
+  object-fit: cover;
+}
