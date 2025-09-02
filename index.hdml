@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="frame">
+      <div class="div">
+        <img class="union" src="img/union.png" />
+        <div class="hello-world">
+           แนะนําตัว<br /><br />นายเศรษฐวุฒิ เตชะมโนกุล<br /><br />สถานศึกษาโรงเรียนสวนกุหลาบวิทยาลัย นนทบุร<br /><br />Hello
+          World<br /><br />ผมชื่อเล่นว่าดาต้ามีความสนใจในด้านคอมพิวเตอร์
+        </div>
+        <img class="rectangle" src="img/rectangle-1.png" />
+      </div>
+    </div>
+  </body>
+</html>
